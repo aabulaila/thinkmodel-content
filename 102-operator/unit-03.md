@@ -12,7 +12,7 @@ The difference between those two outcomes isn't the agent. It's whether the pers
 
 > **Video: The Handoff**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=PyX2FFa1xSE
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

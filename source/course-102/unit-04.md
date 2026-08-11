@@ -10,7 +10,7 @@ Now imagine typing one sentence, in plain language, into a black window: "Organi
 
 That's a terminal agent, and it's real, free to try, and one of the most useful tools in this course. It's also the first AI in this course that reaches out of the chat window and touches things that are actually yours. Which is why this unit teaches two things at once: how to direct it, and how to make every single thing it does undoable.
 
-:::embed{type="video" title="The Terminal Opens" src="/api/storage/public-objects/videos/c2-04-The_Terminal_Opens.mp4"}
+:::embed{type="video" title="The Terminal Opens" src="/api/storage/public-objects/videos/c2-04-The_Terminal_Opens.mp4" youtubeId="Q0Vvw5PAnI4"}
 :::
 
 :::socratic

@@ -12,7 +12,7 @@ Most people resolve this by picking one tool and paying whatever it costs. Opera
 
 > **Video: The Dial You Rent**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=ngEnJoEPM2I
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

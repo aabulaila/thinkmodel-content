@@ -10,7 +10,7 @@ That's not because you're missing something. It's because at the top, the models
 
 Most people resolve this by picking one tool and paying whatever it costs. Operators do something else: they treat models like a staffing decision. Different brains, different rates, different jobs. This unit gives you the selection method, and a way to test any new model in thirty minutes flat.
 
-:::embed{type="video" title="The Dial You Rent" src="/api/storage/public-objects/videos/c2-02-The_Dial_You_Rent.mp4"}
+:::embed{type="video" title="The Dial You Rent" src="/api/storage/public-objects/videos/c2-02-The_Dial_You_Rent.mp4" youtubeId="ngEnJoEPM2I"}
 :::
 
 :::socratic

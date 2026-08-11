@@ -14,7 +14,7 @@ So the gap has moved. It's no longer remembered versus forgotten. It's remembere
 
 > **Video: Remembered by Accident**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=boLCSphxL84
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

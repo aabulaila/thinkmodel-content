@@ -10,7 +10,7 @@ They're called research agents, and every major AI provider now ships one. Used 
 
 The difference between those two outcomes isn't the agent. It's whether the person who commissioned it understands the one rule of delegation this unit is built on.
 
-:::embed{type="video" title="The Handoff" src="/api/storage/public-objects/videos/c2-03-The_Handoff.mp4"}
+:::embed{type="video" title="The Handoff" src="/api/storage/public-objects/videos/c2-03-The_Handoff.mp4" youtubeId="PyX2FFa1xSE"}
 :::
 
 :::socratic

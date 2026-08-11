@@ -12,7 +12,7 @@ The old complaint about AI was amnesia: it forgot you between chats, and you re-
 
 So the gap has moved. It's no longer remembered versus forgotten. It's remembered by accident versus briefed on purpose. Closing that gap is the first skill of operating AI instead of just using it, and it's where this course begins.
 
-:::embed{type="video" title="Remembered by Accident" src="/api/storage/public-objects/videos/c2-01-Remembered_by_Accident.mp4"}
+:::embed{type="video" title="Remembered by Accident" src="/api/storage/public-objects/videos/c2-01-Remembered_by_Accident.mp4" youtubeId="boLCSphxL84"}
 :::
 
 :::socratic

@@ -12,7 +12,7 @@ That's a terminal agent, and it's real, free to try, and one of the most useful 
 
 > **Video: The Terminal Opens**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=Q0Vvw5PAnI4
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 
