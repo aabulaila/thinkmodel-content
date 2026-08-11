@@ -1,4 +1,4 @@
-# ThinkModel — an open AI literacy curriculum
+# ThinkModel — an open-source curriculum for AI literacy
 
 [![Licence: CC BY 4.0](https://img.shields.io/badge/Licence-CC%20BY%204.0-7c6ff7.svg)](https://creativecommons.org/licenses/by/4.0/)
 
