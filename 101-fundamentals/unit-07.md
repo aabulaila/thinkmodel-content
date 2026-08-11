@@ -224,7 +224,7 @@ Now lay all five outputs side by side. Write 3-4 sentences describing what chang
 |------|-------|-----|-------------|
 | Article | Anthropic, "Effective Context Engineering for AI Agents" (2025) | https://anthropic.com/engineering/effective-context-engineering-for-ai-agents | The definitive guide to context engineering from Claude's makers |
 | Article | Simon Willison, "Context Engineering" (June 2025) | https://simonwillison.net/2025/jun/27/context-engineering/ | Respected developer's perspective on the shift from prompting to context |
-| Article | Phil Schmid, "The New Skill in AI is Not Prompting, It's Context Engineering" | https://philschmid.de/context-engineering | Clear practical guide to context engineering principles |
+| Article | Phil Schmid, "The New Skill in AI is Not Prompting, It's Context Engineering" | https://www.philschmid.de/context-engineering | Clear practical guide to context engineering principles |
 | Reference | Tobi Lütke on context engineering | https://x.com/tobi/status/1935533422589399127 | The Shopify CEO's post that popularized the term |
 | Video | Tina Huang, "Context Engineering Clearly Explained" (~12 min) | https://youtube.com/results?search_query=Tina+Huang+Context+Engineering+Clearly+Explained | Accessible video walkthrough of context engineering |
 | Tutorial | DataCamp, "Context Engineering: A Guide With Examples" | https://datacamp.com/blog/context-engineering | Step-by-step tutorial with practical examples |

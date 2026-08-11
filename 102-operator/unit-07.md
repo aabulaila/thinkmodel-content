@@ -204,7 +204,7 @@ Find every key you've handed out, break your trifectas, and write the law.
 | Article | The Hacker News, Salesforce patches ForcedLeak (Sept 2025) | https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html | Independent coverage: the five-dollar domain and the patch |
 | Article | The Register, ForcedLeak and agent security holes (Sept 2025) | https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/ | The attack chain explained for practitioners |
 | Docs | OWASP, LLM prompt injection (LLM01) | https://genai.owasp.org/llmrisk/llm01-prompt-injection/ | The industry-standard classification of injection risks and mitigations |
-| Docs | Anthropic, Claude connectors and permissions help | https://support.claude.com/en/collections/4856338-integrations-connectors | Where the keys live in one assistant's real settings |
+| Docs | Anthropic, Claude connectors and permissions help | https://support.claude.com/en/collections/15399129-connectors | Where the keys live in one assistant's real settings |
 
 ## Glossary
 

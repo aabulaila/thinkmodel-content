@@ -127,7 +127,8 @@ licensed for use in a way that implies your adaptation is the original.
 
 AI facts date fast, and these units carry specific numbers, studies and model
 names. If something is wrong or has gone stale, **[open an
-issue](../../issues)** — corrections flow back into the units every learner
+issue](https://github.com/aabulaila/thinkmodel-content/issues)** — corrections
+flow back into the units every learner
 reads, on the site and here.
 
 ## For contributors
