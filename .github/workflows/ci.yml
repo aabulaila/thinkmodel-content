@@ -1,0 +1,39 @@
+name: CI
+
+# The plain-markdown build is generated from the directive source, and the
+# generated files are committed so GitHub can render them. That only stays true
+# if something checks it — otherwise a source edit silently leaves the readable
+# build stale, and the version people actually read drifts from the canonical one.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Golden tests for the plain-markdown conversion
+        run: node --test tools/build-plain.test.mjs
+
+      - name: The committed build matches what the source produces
+        run: |
+          node tools/build-plain.mjs source/course-101 101-fundamentals
+          node tools/build-plain.mjs source/course-102 102-operator
+          if ! git diff --exit-code --stat; then
+            echo
+            echo "The committed plain-markdown build is stale."
+            echo "Regenerate it and commit the result:"
+            echo "  node tools/build-plain.mjs source/course-101 101-fundamentals"
+            echo "  node tools/build-plain.mjs source/course-102 102-operator"
+            exit 1
+          fi

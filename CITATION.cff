@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "ThinkModel — an open-source curriculum for AI literacy"
+message: >-
+  If you teach from this curriculum, translate it, or adapt it, please cite it.
+  Attribution is what CC BY 4.0 asks for in return, and a citation is the
+  easiest way to give it.
+type: dataset
+authors:
+  - family-names: Abulaila
+    given-names: Amer
+repository-code: "https://github.com/aabulaila/thinkmodel-content"
+url: "https://thinkmodel.ai"
+abstract: >-
+  Two complete AI literacy courses totalling 25 units and roughly 69,000 words,
+  written for adults and teenagers with no technical background. Course 101
+  covers how AI works, why it fails, and how to use it well. Course 102 covers
+  operating AI systems: workspaces, agents, autonomy, security, and automation.
+keywords:
+  - AI literacy
+  - curriculum
+  - open educational resources
+  - artificial intelligence
+  - education
+license: CC-BY-4.0
+date-released: "2026-08-11"
+version: "1.0.0"
