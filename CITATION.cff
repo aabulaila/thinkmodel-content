@@ -8,7 +8,7 @@ type: dataset
 authors:
   - family-names: Abulaila
     given-names: Amer
-repository-code: "https://github.com/aabulaila/thinkmodel-content"
+repository-code: "https://github.com/aabulaila/ThinkModel-content"
 url: "https://thinkmodel.ai"
 abstract: >-
   Two complete AI literacy courses totalling 25 units and roughly 69,000 words,
