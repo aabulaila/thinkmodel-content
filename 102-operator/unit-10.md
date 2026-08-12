@@ -12,7 +12,7 @@ It won't be as smart as the frontier. The interesting questions are: how much le
 
 > **Video: Own the Engine**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=JZbZ-PWVC1s
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

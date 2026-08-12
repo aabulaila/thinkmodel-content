@@ -12,7 +12,7 @@ The skill that makes this safe isn't a new tool. It's a change of posture: you s
 
 > **Video: While You Sleep**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=_KUlZbheBkE
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 
@@ -192,7 +192,7 @@ Ship the smallest standing system that earns its schedule, governed properly.
 |------|-------|-----|-------------|
 | Article | Anthropic Engineering, "Building effective agents" | https://www.anthropic.com/engineering/building-effective-agents | Workflow-versus-agent patterns; the professional version of drawing before building |
 | Docs | OpenAI Help, Scheduled tasks in ChatGPT | https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt | Native standing tasks in one assistant, with plan availability |
-| Docs | Google, Gemini scheduled actions | https://support.google.com/gemini/answer/16316416 | Native standing tasks in another, with plan availability |
+| Docs | Google, Gemini scheduled actions | https://support.google.com/gemini/answer/16276794 | Native standing tasks in another, with plan availability |
 | Tool | n8n | https://n8n.io | The graph canvas made clickable; free to self-host |
 | Tool | Zapier | https://zapier.com | The easiest cross-app automation on a free tier |
 | Docs | X (Twitter) automation rules | https://help.x.com/en/rules-and-policies/x-automation | A real example of the platform rules automated posting lives under |

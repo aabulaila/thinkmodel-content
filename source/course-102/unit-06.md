@@ -10,7 +10,7 @@ Give too little, and you're approving forty trivial steps an hour, which is slow
 
 Most people answer the leash question by feel. Operators answer it with a rule so clean you can apply it in five seconds, to any agent, forever.
 
-:::embed{type="video" title="Earning Autonomy" src="/api/storage/public-objects/videos/c2-06-Earning_Autonomy.mp4"}
+:::embed{type="video" title="Earning Autonomy" src="/api/storage/public-objects/videos/c2-06-Earning_Autonomy.mp4" youtubeId="xSuC3Mj8q2E"}
 :::
 
 :::socratic

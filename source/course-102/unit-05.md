@@ -10,7 +10,7 @@ Most people conclude the models are different. Operators know better: what chang
 
 Better: you can build your own. That's this unit.
 
-:::embed{type="video" title="Same Engine, Different Car" src="/api/storage/public-objects/videos/c2-05-Same_Engine_Different_Car.mp4"}
+:::embed{type="video" title="Same Engine, Different Car" src="/api/storage/public-objects/videos/c2-05-Same_Engine_Different_Car.mp4" youtubeId="yShyWjAslW4"}
 :::
 
 :::socratic

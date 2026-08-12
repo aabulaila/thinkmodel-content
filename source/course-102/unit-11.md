@@ -10,7 +10,7 @@ Which means you've inherited the oldest problem in engineering. Right now, tonig
 
 Every serious engineering field answers that question the same way: you don't inspect your way to confidence, you test your way there, with tests written down, run on purpose, and rerun after every change. AI systems are no exception, the industry has spent two years learning this the hard way, and the personal version takes forty minutes to build. This unit, you break your own stuff, on purpose, before the world does it for you.
 
-:::embed{type="video" title="Break It First" src="/api/storage/public-objects/videos/c2-11-Break_It_First.mp4"}
+:::embed{type="video" title="Break It First" src="/api/storage/public-objects/videos/c2-11-Break_It_First.mp4" youtubeId="qAcEKmUmY9k"}
 :::
 
 :::socratic

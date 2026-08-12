@@ -12,7 +12,7 @@ Every serious engineering field answers that question the same way: you don't in
 
 > **Video: Break It First**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=qAcEKmUmY9k
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

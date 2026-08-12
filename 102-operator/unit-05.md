@@ -12,7 +12,7 @@ Better: you can build your own. That's this unit.
 
 > **Video: Same Engine, Different Car**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=yShyWjAslW4
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

@@ -10,7 +10,7 @@ Here's what most people don't know. You can download an AI model, the actual bra
 
 It won't be as smart as the frontier. The interesting questions are: how much less, measured on your tasks, and for which parts of your life is that trade obviously worth it? By the end of this unit you'll have a written verdict, and the instrument you built in Unit 02 is about to earn its keep.
 
-:::embed{type="video" title="Own the Engine" src="/api/storage/public-objects/videos/c2-10-Own_The_Engine.mp4"}
+:::embed{type="video" title="Own the Engine" src="/api/storage/public-objects/videos/c2-10-Own_The_Engine.mp4" youtubeId="JZbZ-PWVC1s"}
 :::
 
 :::socratic

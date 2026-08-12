@@ -12,7 +12,7 @@ The answer isn't a source to follow. It's an instrument panel you already built,
 
 > **Video: Stay Frontier**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=Ci8pfLM5om0
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

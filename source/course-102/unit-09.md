@@ -10,7 +10,7 @@ Here's the detail everyone missed while arguing about whether this was the end o
 
 That ratio, and that division of labor, is this unit. Production just became almost free. Which means the entire remaining job has a name you weren't expecting to hold: art director.
 
-:::embed{type="video" title="Taste Is the Spec" src="/api/storage/public-objects/videos/c2-09-Taste_Is_The_Spec.mp4"}
+:::embed{type="video" title="Taste Is the Spec" src="/api/storage/public-objects/videos/c2-09-Taste_Is_The_Spec.mp4" youtubeId="E2owNX5-e64"}
 :::
 
 :::socratic

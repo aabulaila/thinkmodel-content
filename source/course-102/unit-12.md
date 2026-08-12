@@ -10,7 +10,7 @@ Which leaves you with the last operator problem, and the one this unit exists to
 
 The answer isn't a source to follow. It's an instrument panel you already built, plus one calendar appointment, plus a two-week proof that you can fly the whole aircraft. Welcome to the last unit. It's mostly made of the other eleven.
 
-:::embed{type="video" title="Stay Frontier" src="/api/storage/public-objects/videos/c2-12-Stay_Frontier.mp4"}
+:::embed{type="video" title="Stay Frontier" src="/api/storage/public-objects/videos/c2-12-Stay_Frontier.mp4" youtubeId="Ci8pfLM5om0"}
 :::
 
 :::socratic

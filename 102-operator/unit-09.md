@@ -12,7 +12,7 @@ That ratio, and that division of labor, is this unit. Production just became alm
 
 > **Video: Taste Is the Spec**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=E2owNX5-e64
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 

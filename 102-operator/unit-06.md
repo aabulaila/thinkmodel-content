@@ -12,7 +12,7 @@ Most people answer the leash question by feel. Operators answer it with a rule s
 
 > **Video: Earning Autonomy**
 >
-> Available in the ThinkModel reader at https://thinkmodel.ai
+> https://www.youtube.com/watch?v=xSuC3Mj8q2E
 >
 > ThinkModel video — CC BY 4.0, the same licence as the text.
 
